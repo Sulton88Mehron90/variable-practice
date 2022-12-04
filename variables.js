@@ -9,5 +9,6 @@ var birthDate = 03
 var birthYear = 1966
 var birthMonth = 04
 
-
-// var depositPaid = true
+// variable that are assigned to Booleans
+var depositPaid = true
+var married = false
