@@ -3,6 +3,9 @@
 var email = "lacy7.edwards@gmail.com"
 var zipCode = "32550"
 var phoneNumbers = "917-495-7222"
+email = "nanajon66@gmail.com"
+zipCode = "80228"
+phoneNumbers = "303-550-8945"
 
 console.log (email)
 console.log (zipCode)
@@ -11,6 +14,9 @@ console.log (phoneNumbers)
 var email = "nanajon66@gmail.com"
 var zipCode = "80228"
 var phoneNumbers = "303-550-8945"
+email = "lacy7.edwards@gmail.com"
+zipCode = "32550"
+phoneNumbers = "917-495-7222"
 
 console.log (email)
 console.log (zipCode)
